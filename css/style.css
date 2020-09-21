@@ -1,5 +1,5 @@
 .custom-container {
-    background-color: rgb(213, 213, 221);
+    background-color: rgb(98, 98, 105);
     margin-left: 10%;
     max-width: 50%;
 }
@@ -12,4 +12,6 @@
     background-image: "Images./background.jpg" 
   }
  
-  
+body {
+    background-color: rgb(32, 32, 46);
+}
